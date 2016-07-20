@@ -1,0 +1,5 @@
+***********************************************************************************************************************
+comparable & comparator:
+	1.comparable is implemented inside the java collection, and comparator is outsite
+	2.comparable is defined in java.lang, and comparator is defined in java.util
+	3.
